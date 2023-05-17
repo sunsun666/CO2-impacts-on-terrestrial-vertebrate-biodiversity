@@ -1,5 +1,3 @@
 # CO2-impacts-on-habitat-suitability
-Due to the complexity of the analysis involved in this study, we are working to compile the code 
-
-The file Figure_oct.py are script to plot figures
-The file model_training.py are script to conduct regression
+The scripts are code supporting the research "Ignoring Plant Physiological Responses to Elevated CO2 Will Overestimate Habitat Degradation Risk Under Global Climate Change".
+We are still making effort to organizing the code,the repository has already uploaded drafts for model training (model_training.py) and figures plotting (Figure_oct.py).
